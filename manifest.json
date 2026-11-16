@@ -1,0 +1,11 @@
+﻿{
+  "name": "PWA Outbox - Registro de Incidencias",
+  "short_name": "OutboxPWA",
+  "description": "Práctica de PWA con IndexedDB, patrón Outbox y Background Sync.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#1976d2",
+  "icons": []
+}
