@@ -28,7 +28,9 @@ var STATIC_FILES = [
   './styles.css',
   './db-helper.js',
   './app.js',
-  './manifest.json'
+  './manifest.json',
+  './icon-192.png',
+  './icon-512.png'
 ];
 
 // -----------------------------
